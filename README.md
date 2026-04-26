@@ -61,7 +61,10 @@ Transaction History:
 - get_highest_bidder returned the bidder address
 ##Screenshot:
 ![screenshot](explorer.png)
+<img width="1366" height="642" alt="explorer" src="https://github.com/user-attachments/assets/702187e8-5fdb-4446-943c-63ca6c5f4432" />
+
 ![screenshot](test3.png)
+<img width="1366" height="647" alt="test3" src="https://github.com/user-attachments/assets/0d97628a-06dd-4fcc-a615-83d6b216ec71" />
 
 
 ## Future Scope
